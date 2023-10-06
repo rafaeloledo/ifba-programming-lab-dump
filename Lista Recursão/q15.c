@@ -4,8 +4,6 @@
 #define c1 "%d"
 
 // v 08:01 12/06/2021
-
-
 /*15) Faça uma função recursiva que receba um número inteiro positivo par N e imprima
 todos os números pares de 0 até N em ordem decrescente.
  */

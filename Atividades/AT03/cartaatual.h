@@ -1,0 +1,1 @@
+int cartaatualdodeck(int idMao);
